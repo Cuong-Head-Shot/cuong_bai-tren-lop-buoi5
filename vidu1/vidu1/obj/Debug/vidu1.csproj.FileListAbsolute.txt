@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\00-NguiyenPhiCuong-buoi5\vidu1\vidu1\bin\Debug\vidu1.exe.config
+E:\LuuDuLieuSinhVien\00-NguiyenPhiCuong-buoi5\vidu1\vidu1\bin\Debug\vidu1.exe
+E:\LuuDuLieuSinhVien\00-NguiyenPhiCuong-buoi5\vidu1\vidu1\bin\Debug\vidu1.pdb
+E:\LuuDuLieuSinhVien\00-NguiyenPhiCuong-buoi5\vidu1\vidu1\obj\Debug\vidu1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\00-NguiyenPhiCuong-buoi5\vidu1\vidu1\obj\Debug\vidu1.exe
+E:\LuuDuLieuSinhVien\00-NguiyenPhiCuong-buoi5\vidu1\vidu1\obj\Debug\vidu1.pdb
